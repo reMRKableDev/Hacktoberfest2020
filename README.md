@@ -44,8 +44,8 @@ Fill in your Github account name as **value** of the key nickname: and the reaso
 {
   "IloveCode": [
     {
-      "nickname": "savino9",
-      "IloveCode": "it's super fun!"
+      "nickname": "lloydC",
+      "IloveCode": "It makes you good at problem solvings"
     },
     {
       // here your code...
@@ -60,8 +60,13 @@ Another JSON file, in here you'll write a list of your favourite web dev tool **
 
 ```json
 {
-  "nickname": "savino9",
-  "MybestFriends": ["Google Chrome DevTools", "Terminal", "Visual Studio"]
+  "nickname": "LloydC",
+  "MybestFriends": [
+        "VS Code",
+        "Google Chrome DevTools",
+        "Terminal",
+        "JavaScript"
+      ]
 }
 ```
 
